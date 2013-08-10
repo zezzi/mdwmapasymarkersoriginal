@@ -190,33 +190,29 @@ containing a value of this type.
         public static final int logomdw2=0x7f02001c;
     }
     public static final class id {
-        public static final int center_main=0x7f05000c;
-        public static final int detalle_texto=0x7f05000d;
-        public static final int direccion=0x7f05000e;
-        public static final int header=0x7f050010;
-        public static final int header_serial=0x7f050012;
+        public static final int center_main=0x7f050009;
+        public static final int detalle_texto=0x7f05000a;
+        public static final int direccion=0x7f05000b;
+        public static final int header=0x7f05000d;
+        public static final int header_serial=0x7f05000f;
         public static final int hybrid=0x7f050004;
-        public static final int icono=0x7f050006;
         public static final int inicial=0x7f050005;
-        public static final int line_main=0x7f05000b;
-        public static final int menu_licencia=0x7f050013;
-        public static final int nombre_establecimiento=0x7f05000a;
+        public static final int line_main=0x7f050008;
+        public static final int menu_licencia=0x7f050010;
+        public static final int nombre_establecimiento=0x7f050007;
         public static final int none=0x7f050000;
         public static final int normal=0x7f050001;
         public static final int satellite=0x7f050002;
-        public static final int serial=0x7f050011;
-        public static final int snippet=0x7f050008;
+        public static final int serial=0x7f05000e;
         public static final int terrain=0x7f050003;
-        public static final int tipo=0x7f05000f;
-        public static final int titulo=0x7f050007;
-        public static final int top_header=0x7f050009;
+        public static final int tipo=0x7f05000c;
+        public static final int top_header=0x7f050006;
     }
     public static final class layout {
         public static final int activity_main_activity_mapas=0x7f030000;
-        public static final int custom_info_window=0x7f030001;
-        public static final int detail_layout=0x7f030002;
-        public static final int detail_temp=0x7f030003;
-        public static final int licencia_de_uso=0x7f030004;
+        public static final int detail_layout=0x7f030001;
+        public static final int detail_temp=0x7f030002;
+        public static final int licencia_de_uso=0x7f030003;
     }
     public static final class menu {
         public static final int main_activity_mapas=0x7f090000;
